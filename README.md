@@ -16,7 +16,7 @@
    ```
 
 ## Usage
-1. Register to blockless bless network account first, if you dont have you can register [here](https://bless.network/dashboard).
+1. Register to jewel of bless network account first, if you dont have you can register [here](https://bless.network/dashboard).
 2. Set and Modify `peer.txt` and `token.txt`. Below how to setup this file.
 3. To get your `token/usertoken`, follow this step:
 	- Login to your bless account in `https://bless.network/dashboard`, make sure you is in this link (dashboard) before go to next step
